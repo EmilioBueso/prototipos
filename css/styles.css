@@ -1,0 +1,17 @@
+.body1{
+	backgound-color: gold;
+	display:flex;
+}
+
+.cuerpo1{
+	height: 100%;
+	width: 50vh;
+	background-color: turquoise;
+}
+.cuerpo2{
+	height: 100%;
+	width: 25vh;
+	background-color: green;
+	border: solid 3px #ffff00;
+	justify-content:center;
+}
